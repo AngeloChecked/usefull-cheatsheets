@@ -23,8 +23,16 @@
 - https://app.quicktype.io/
 - https://www.regextester.com/
 - https://diagrams.mingrammer.com/docs/getting-started/examples
+- https://git-school.github.io/visualizing-git/
 - https://github.com/jsonhero-io/jsonhero-web
 - https://github.com/AykutSarac/jsonvisio.com
+- https://www.jsv9000.app/
+- https://algorithm-visualizer.org/
+
+### html
+- https://flexboxfroggy.com/
+- https://flexbox.malven.co/
+- https://cssgridgarden.com/
 
 ### learn
 - https://ankiweb.net/

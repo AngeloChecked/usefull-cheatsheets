@@ -43,6 +43,7 @@
 ### learn
 - https://ankiweb.net/
 - https://obsidian.md/
+- https://github.com/zsviczian/excalibrain
 
 ### english
 - https://languagetool.org/

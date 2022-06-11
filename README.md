@@ -27,6 +27,7 @@
 - https://github.com/AykutSarac/jsonvisio.com
 - https://www.jsv9000.app/
 - https://algorithm-visualizer.org/
+- https://pgexercises.com/
 
 ### diagram
 - https://dreampuf.github.io/GraphvizOnline/

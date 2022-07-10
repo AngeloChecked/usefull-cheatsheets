@@ -16,7 +16,6 @@
 ### draw
 - https://excalidraw.com/
 
-
 ### programming
 - https://editor.swagger.io/
 - https://readme.so/editor
@@ -40,6 +39,14 @@
 - https://flexbox.malven.co/
 - https://cssgridgarden.com/
 
+### decode / encode
+- https://morsedecoder.com/
+- https://gchq.github.io/CyberChef/
+- https://dencode.com/en/
+- https://cryptii.com/
+- https://www.dcode.fr/
+  - https://www.dcode.fr/brainfuck-language
+  
 ### learn
 - https://ankiweb.net/
 - https://obsidian.md/

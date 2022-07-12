@@ -40,6 +40,7 @@
 - https://cssgridgarden.com/
 
 ### decode / encode
+- https://dinochiesa.github.io/jwt/
 - https://morsedecoder.com/
 - https://gchq.github.io/CyberChef/
 - https://dencode.com/en/

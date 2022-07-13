@@ -74,3 +74,4 @@
 
 ### other
 - https://github.com/LeCoupa/awesome-cheatsheets
+- https://github.com/girliemac/a-picture-is-worth-a-1000-words

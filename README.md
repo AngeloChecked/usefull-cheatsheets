@@ -33,6 +33,7 @@
 - https://sequencediagram.org/
 - https://diagrams.mingrammer.com/docs/getting-started/examples
 - https://asciiflow.com/
+- https://mermaid.live/
 
 ### html
 - https://flexboxfroggy.com/

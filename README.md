@@ -69,6 +69,28 @@
 - https://www.gamestolearnenglish.com/
 - https://6b.eleuther.ai/
 
+### seo
+- https://www.seozoom.it/
+- https://www.semrush.com/
+- https://app.neilpatel.com/en/ubersuggest/
+
+- https://answerthepublic.com/
+
+- https://web.dev/measure/
+- https://schema.org/
+- https://search.google.com/search-console/about
+- https://tagmanager.google.com/#/home
+- https://analytics.google.com/analytics/web
+
+- https://www.google.com/retail/solutions/merchant-center/
+- https://ads.google.com/home/
+- https://www.similarweb.com
+
+- https://developers.google.com/tag-platform/gtagjs
+- https://developers.google.com/search/docs/advanced/sitemaps/overview
+- https://developers.google.com/search/docs/advanced/guidelines/duplicate-content
+- https://developers.google.com/search/docs/advanced/crawling/consolidate-duplicate-urls
+
 ### file transfer
 - https://webwormhole.io/
 

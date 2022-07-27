@@ -53,6 +53,7 @@
 - https://ankiweb.net/
 - https://obsidian.md/
 - https://github.com/zsviczian/excalibrain
+- https://www.buildingasecondbrain.com/
 
 ### english
 - https://languagetool.org/

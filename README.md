@@ -40,6 +40,10 @@
 - https://flexbox.malven.co/
 - https://cssgridgarden.com/
 
+### nocode - low code
+- https://www.codux.com/
+- https://n8n.io/
+
 ### decode / encode
 - https://dinochiesa.github.io/jwt/
 - https://morsedecoder.com/
@@ -54,6 +58,9 @@
 - https://obsidian.md/
 - https://github.com/zsviczian/excalibrain
 - https://www.buildingasecondbrain.com/
+
+### book writing
+- https://typst.app/
 
 ### english
 - https://languagetool.org/

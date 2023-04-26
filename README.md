@@ -44,6 +44,9 @@
 - https://www.codux.com/
 - https://n8n.io/
 
+### k8s visualization
+- https://github.com/lensapp/lens
+
 ### decode / encode
 - https://dinochiesa.github.io/jwt/
 - https://morsedecoder.com/

@@ -4,6 +4,9 @@
 
 # usefull-tools:
 
+### awesome games
+- https://garticphone.com/
+
 ### mind tools
 - https://untools.co/
 
@@ -34,6 +37,14 @@
 - https://diagrams.mingrammer.com/docs/getting-started/examples
 - https://asciiflow.com/
 - https://mermaid.live/
+
+### data visualization
+- https://observablehq.com/
+- https://vega.github.io/vega-lite/examples/
+- https://d3js.org/
+
+### animations and visualization
+- https://pixijs.com
 
 ### html
 - https://flexboxfroggy.com/

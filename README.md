@@ -58,6 +58,9 @@
 ### k8s visualization
 - https://github.com/lensapp/lens
 
+### aws  
+https://www.leapp.cloud/
+
 ### decode / encode
 - https://dinochiesa.github.io/jwt/
 - https://morsedecoder.com/

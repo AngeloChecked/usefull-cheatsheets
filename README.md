@@ -26,6 +26,7 @@
 - https://www.regextester.com/
 - https://git-school.github.io/visualizing-git/
 - https://github.com/jsonhero-io/jsonhero-web
+- https://jsoncrack.com/
 - https://github.com/AykutSarac/jsonvisio.com
 - https://www.jsv9000.app/
 - https://algorithm-visualizer.org/

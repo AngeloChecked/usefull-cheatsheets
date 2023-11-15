@@ -53,6 +53,9 @@
 - https://flexbox.malven.co/
 - https://cssgridgarden.com/
 
+### web
+- https://addons.mozilla.org/en-US/firefox/addon/tweak-extension/
+
 ### nocode - low code
 - https://www.codux.com/
 - https://n8n.io/

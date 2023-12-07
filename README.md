@@ -12,6 +12,7 @@
 
 ### statistic
 - https://github.com/mavam/stat-cookbook
+- https://seeing-theory.brown.edu/
 
 ### math
 - https://www.calculatorsoup.com/

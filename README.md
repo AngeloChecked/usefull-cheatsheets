@@ -54,6 +54,8 @@
 - https://flexboxfroggy.com/
 - https://flexbox.malven.co/
 - https://cssgridgarden.com/
+- https://www.joshwcomeau.com/css/center-a-div/
+- https://www.joshwcomeau.com/css/rules-of-margin-collapse/
 
 ### web
 - https://addons.mozilla.org/en-US/firefox/addon/tweak-extension/

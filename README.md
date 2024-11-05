@@ -41,6 +41,7 @@
 - https://diagrams.mingrammer.com/docs/getting-started/examples
 - https://asciiflow.com/
 - https://mermaid.live/
+- https://chartdb.io
 
 ### data visualization
 - https://observablehq.com/

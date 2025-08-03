@@ -48,6 +48,9 @@
 - https://vega.github.io/vega-lite/examples/
 - https://d3js.org/
 
+### llm
+- https://bbycroft.net/llm
+
 ### animations and visualization
 - https://pixijs.com
 - https://complex-analysis.com/

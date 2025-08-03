@@ -47,6 +47,7 @@
 - https://observablehq.com/
 - https://vega.github.io/vega-lite/examples/
 - https://d3js.org/
+- https://datavizcatalogue.com/search.html
 
 ### llm
 - https://bbycroft.net/llm
